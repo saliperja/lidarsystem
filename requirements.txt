@@ -1,0 +1,10 @@
+PyQt5
+matplotlib
+numpy
+open3d>=0.13.0
+shapely
+ezdxf>=0.16.0
+pypcd
+alphashape
+scipy
+pillow

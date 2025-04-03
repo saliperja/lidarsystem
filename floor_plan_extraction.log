@@ -1,0 +1,545 @@
+2025-03-24 23:13:21,888 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Room1/Room1.pcd
+2025-03-24 23:13:22,256 - floor_plan_extractor - INFO - Starting wall segmentation with 23629 points
+2025-03-24 23:13:22,571 - floor_plan_extractor - INFO - Wall segmentation complete. Found 4 wall segments with 14921 points
+2025-03-24 23:13:22,571 - floor_plan_extractor - INFO - Creating floor plan from 14921 wall points
+2025-03-24 23:13:22,712 - floor_plan_extractor - INFO - Floor plan created. Area: 77.36 m², Perimeter: 36.76 m
+2025-03-24 23:13:53,864 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Room1/Room1.pcd
+2025-03-24 23:13:54,076 - floor_plan_extractor - INFO - Starting wall segmentation with 23629 points
+2025-03-24 23:13:54,329 - floor_plan_extractor - INFO - Wall segmentation complete. Found 4 wall segments with 15233 points
+2025-03-24 23:13:54,329 - floor_plan_extractor - INFO - Creating floor plan from 15233 wall points
+2025-03-24 23:13:54,452 - floor_plan_extractor - INFO - Floor plan created. Area: 77.36 m², Perimeter: 36.73 m
+2025-03-24 23:14:15,159 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-24 23:14:15,160 - ezdxf - INFO - creating ACAD_GROUP dictionary
+2025-03-24 23:14:15,160 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-03-24 23:14:15,160 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-24 23:14:15,160 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-24 23:14:15,160 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-03-24 23:14:15,160 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-03-24 23:14:15,160 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-03-24 23:14:15,160 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-03-24 23:14:15,160 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-24 23:14:15,161 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-24 23:14:15,163 - ezdxf - INFO - did not write header var $INTERFEREOBJVS, value is None.
+2025-03-24 23:14:15,163 - ezdxf - INFO - did not write header var $INTERFEREVPVS, value is None.
+2025-03-24 23:14:15,166 - floor_plan_extractor - INFO - DXF exported: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-03-24 23:14:15,172 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-24 23:14:15,174 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-24 23:14:15,174 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-24 23:14:15,175 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-24 23:14:15,175 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-24 23:25:48,091 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Room1/Room1.pcd
+2025-03-24 23:25:48,293 - floor_plan_extractor - INFO - Starting wall segmentation with 23629 points
+2025-03-24 23:25:48,569 - floor_plan_extractor - INFO - Wall segmentation complete. Found 4 wall segments with 15236 points
+2025-03-24 23:25:48,569 - floor_plan_extractor - INFO - Creating floor plan from 15236 wall points
+2025-03-24 23:25:48,695 - floor_plan_extractor - INFO - Floor plan created. Area: 76.97 m², Perimeter: 36.70 m
+2025-03-24 23:26:00,431 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-24 23:26:00,431 - ezdxf - INFO - creating ACAD_GROUP dictionary
+2025-03-24 23:26:00,431 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-03-24 23:26:00,431 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-24 23:26:00,431 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-24 23:26:00,431 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-03-24 23:26:00,431 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-03-24 23:26:00,431 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-03-24 23:26:00,431 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-03-24 23:26:00,431 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-24 23:26:00,433 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-24 23:26:00,434 - ezdxf - INFO - did not write header var $INTERFEREOBJVS, value is None.
+2025-03-24 23:26:00,434 - ezdxf - INFO - did not write header var $INTERFEREVPVS, value is None.
+2025-03-24 23:26:00,436 - floor_plan_extractor - INFO - DXF exported: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-03-24 23:26:00,442 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-24 23:26:00,443 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-24 23:26:00,445 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-24 23:26:00,445 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-24 23:26:00,445 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-24 23:26:00,447 - root - INFO - Successfully loaded reference DXF: C:/Users/salip/Desktop/Final Year Project/AutoRecover Of Part1.DXF
+2025-03-24 23:26:00,464 - root - INFO - Successfully loaded extracted DXF: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-03-24 23:34:00,533 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Final Year Project/Scan Room/1 corner (Frame 5).pcd
+2025-03-24 23:34:00,599 - floor_plan_extractor - INFO - Starting wall segmentation with 14029 points
+2025-03-24 23:34:00,712 - floor_plan_extractor - INFO - Wall segmentation complete. Found 2 wall segments with 4550 points
+2025-03-24 23:34:00,712 - floor_plan_extractor - INFO - Creating floor plan from 4550 wall points
+2025-03-24 23:34:00,752 - floor_plan_extractor - INFO - Floor plan created. Area: 78.17 m², Perimeter: 37.87 m
+2025-03-24 23:34:05,973 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Final Year Project/Scan Room/1 corner (Frame 5).pcd
+2025-03-24 23:34:06,036 - floor_plan_extractor - INFO - Starting wall segmentation with 14029 points
+2025-03-24 23:34:06,153 - floor_plan_extractor - INFO - Wall segmentation complete. Found 2 wall segments with 4629 points
+2025-03-24 23:34:06,153 - floor_plan_extractor - INFO - Creating floor plan from 4629 wall points
+2025-03-24 23:34:06,193 - floor_plan_extractor - INFO - Floor plan created. Area: 77.68 m², Perimeter: 37.80 m
+2025-03-24 23:34:08,757 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Final Year Project/Scan Room/corner2 (Frame 10).pcd
+2025-03-24 23:34:08,812 - floor_plan_extractor - INFO - Starting wall segmentation with 12761 points
+2025-03-24 23:34:08,933 - floor_plan_extractor - INFO - Wall segmentation complete. Found 3 wall segments with 4469 points
+2025-03-24 23:34:08,935 - floor_plan_extractor - INFO - Creating floor plan from 4469 wall points
+2025-03-24 23:34:08,995 - floor_plan_extractor - INFO - Floor plan created. Area: 93.47 m², Perimeter: 39.12 m
+2025-03-24 23:34:14,676 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Final Year Project/Scan Room/corner3 (Frame 33).pcd
+2025-03-24 23:34:14,731 - floor_plan_extractor - INFO - Starting wall segmentation with 16125 points
+2025-03-24 23:34:14,850 - floor_plan_extractor - INFO - Wall segmentation complete. Found 4 wall segments with 5748 points
+2025-03-24 23:34:14,851 - floor_plan_extractor - INFO - Creating floor plan from 5748 wall points
+2025-03-24 23:34:14,914 - floor_plan_extractor - INFO - Floor plan created. Area: 176.10 m², Perimeter: 54.69 m
+2025-03-24 23:34:17,583 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Final Year Project/Scan Room/corner4 (Frame 69).pcd
+2025-03-24 23:34:17,639 - floor_plan_extractor - INFO - Starting wall segmentation with 16344 points
+2025-03-24 23:34:17,745 - floor_plan_extractor - INFO - Wall segmentation complete. Found 2 wall segments with 3439 points
+2025-03-24 23:34:17,746 - floor_plan_extractor - INFO - Creating floor plan from 3439 wall points
+2025-03-24 23:34:17,800 - floor_plan_extractor - INFO - Floor plan created. Area: 141.44 m², Perimeter: 51.82 m
+2025-03-24 23:34:20,109 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Final Year Project/Scan Room/middle (Frame 368).pcd
+2025-03-24 23:34:20,163 - floor_plan_extractor - INFO - Starting wall segmentation with 16918 points
+2025-03-24 23:34:20,265 - floor_plan_extractor - INFO - Wall segmentation complete. Found 1 wall segments with 2232 points
+2025-03-24 23:34:20,266 - floor_plan_extractor - INFO - Creating floor plan from 2232 wall points
+2025-03-24 23:34:20,290 - floor_plan_extractor - INFO - Floor plan created. Area: 8.69 m², Perimeter: 35.39 m
+2025-03-24 23:34:27,459 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Final Year Project/Scans/Record1/aggregated_scan.pcd
+2025-03-24 23:34:30,218 - floor_plan_extractor - INFO - Starting wall segmentation with 31112 points
+2025-03-24 23:34:30,379 - floor_plan_extractor - ERROR - No vertical walls found in the point cloud
+2025-03-24 23:34:33,332 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Final Year Project/Scans/Record1/Record1 (Frame 0).pcd
+2025-03-24 23:34:33,390 - floor_plan_extractor - INFO - Starting wall segmentation with 12667 points
+2025-03-24 23:34:33,489 - floor_plan_extractor - INFO - Wall segmentation complete. Found 1 wall segments with 2321 points
+2025-03-24 23:34:33,489 - floor_plan_extractor - INFO - Creating floor plan from 2321 wall points
+2025-03-24 23:34:33,510 - floor_plan_extractor - INFO - Floor plan created. Area: 1.62 m², Perimeter: 14.94 m
+2025-03-24 23:34:37,647 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Final Year Project/Scans/Record3/merged_record3_skip100.pcd
+2025-03-24 23:34:39,896 - floor_plan_extractor - INFO - Starting wall segmentation with 24932 points
+2025-03-24 23:34:40,177 - floor_plan_extractor - INFO - Wall segmentation complete. Found 4 wall segments with 16077 points
+2025-03-24 23:34:40,178 - floor_plan_extractor - INFO - Creating floor plan from 16077 wall points
+2025-03-24 23:34:40,349 - floor_plan_extractor - INFO - Floor plan created. Area: 77.24 m², Perimeter: 36.71 m
+2025-03-24 23:34:47,668 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-24 23:34:47,668 - ezdxf - INFO - creating ACAD_GROUP dictionary
+2025-03-24 23:34:47,668 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-03-24 23:34:47,668 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-24 23:34:47,668 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-24 23:34:47,668 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-03-24 23:34:47,668 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-03-24 23:34:47,668 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-03-24 23:34:47,668 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-03-24 23:34:47,670 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-24 23:34:47,670 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-24 23:34:47,672 - ezdxf - INFO - did not write header var $INTERFEREOBJVS, value is None.
+2025-03-24 23:34:47,672 - ezdxf - INFO - did not write header var $INTERFEREVPVS, value is None.
+2025-03-24 23:34:47,674 - floor_plan_extractor - INFO - DXF exported: C:/Users/salip/Desktop\floorplan.dxf
+2025-03-24 23:43:18,193 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Room1/Room1.pcd
+2025-03-24 23:43:18,400 - floor_plan_extractor - INFO - Starting wall segmentation with 23629 points
+2025-03-24 23:43:18,669 - floor_plan_extractor - INFO - Wall segmentation complete. Found 4 wall segments with 15115 points
+2025-03-24 23:43:18,669 - floor_plan_extractor - INFO - Creating floor plan from 15115 wall points
+2025-03-24 23:43:18,797 - floor_plan_extractor - INFO - Floor plan created. Area: 76.48 m², Perimeter: 36.60 m
+2025-03-24 23:43:29,560 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-24 23:43:29,560 - ezdxf - INFO - creating ACAD_GROUP dictionary
+2025-03-24 23:43:29,560 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-03-24 23:43:29,561 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-24 23:43:29,561 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-24 23:43:29,561 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-03-24 23:43:29,561 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-03-24 23:43:29,561 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-03-24 23:43:29,561 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-03-24 23:43:29,561 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-24 23:43:29,561 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-24 23:43:29,564 - ezdxf - INFO - did not write header var $INTERFEREOBJVS, value is None.
+2025-03-24 23:43:29,564 - ezdxf - INFO - did not write header var $INTERFEREVPVS, value is None.
+2025-03-24 23:43:29,565 - floor_plan_extractor - INFO - DXF exported: C:/Users/salip/Desktop\floorplan.dxf
+2025-03-24 23:43:40,348 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-24 23:43:40,348 - ezdxf - INFO - creating ACAD_GROUP dictionary
+2025-03-24 23:43:40,348 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-03-24 23:43:40,348 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-24 23:43:40,349 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-24 23:43:40,349 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-03-24 23:43:40,349 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-03-24 23:43:40,349 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-03-24 23:43:40,349 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-03-24 23:43:40,349 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-24 23:43:40,349 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-24 23:43:40,353 - ezdxf - INFO - did not write header var $INTERFEREOBJVS, value is None.
+2025-03-24 23:43:40,353 - ezdxf - INFO - did not write header var $INTERFEREVPVS, value is None.
+2025-03-24 23:43:40,354 - floor_plan_extractor - INFO - DXF exported: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-03-24 23:43:40,362 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-24 23:43:40,362 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-24 23:43:40,363 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-24 23:43:40,365 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-24 23:43:40,365 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-24 23:50:51,379 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Room1/Room1.pcd
+2025-03-24 23:50:51,595 - floor_plan_extractor - INFO - Starting wall segmentation with 23629 points
+2025-03-24 23:50:51,910 - floor_plan_extractor - INFO - Wall segmentation complete. Found 4 wall segments with 15213 points
+2025-03-24 23:50:51,910 - floor_plan_extractor - INFO - Creating floor plan from 15213 wall points
+2025-03-24 23:50:52,049 - floor_plan_extractor - INFO - Floor plan created. Area: 77.24 m², Perimeter: 36.73 m
+2025-03-24 23:51:02,526 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-24 23:51:02,527 - ezdxf - INFO - creating ACAD_GROUP dictionary
+2025-03-24 23:51:02,527 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-03-24 23:51:02,527 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-24 23:51:02,527 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-24 23:51:02,527 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-03-24 23:51:02,528 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-03-24 23:51:02,528 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-03-24 23:51:02,528 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-03-24 23:51:02,529 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-24 23:51:02,529 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-24 23:51:02,531 - ezdxf - INFO - did not write header var $INTERFEREOBJVS, value is None.
+2025-03-24 23:51:02,531 - ezdxf - INFO - did not write header var $INTERFEREVPVS, value is None.
+2025-03-24 23:51:02,533 - floor_plan_extractor - INFO - DXF exported: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-03-24 23:51:02,540 - ezdxf - INFO - DXF version upgrade to DXF R2000.
+2025-03-24 23:51:02,542 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-24 23:51:02,544 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-03-24 23:51:02,544 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-24 23:51:02,545 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-24 23:51:02,551 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-03-24 23:51:02,551 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-03-24 23:51:02,551 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-03-24 23:51:02,551 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-03-24 23:51:02,553 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-24 23:51:02,553 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-24 23:51:02,558 - root - INFO - Successfully loaded reference DXF: C:/Users/salip/Desktop/AutoRecover Of Part1.dxf
+2025-03-24 23:51:02,574 - root - INFO - Successfully loaded extracted DXF: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-03-24 23:54:31,824 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Room1/Room1.pcd
+2025-03-24 23:54:32,044 - floor_plan_extractor - INFO - Starting wall segmentation with 23629 points
+2025-03-24 23:54:32,345 - floor_plan_extractor - INFO - Wall segmentation complete. Found 4 wall segments with 14991 points
+2025-03-24 23:54:32,345 - floor_plan_extractor - INFO - Creating floor plan from 14991 wall points
+2025-03-24 23:54:32,483 - floor_plan_extractor - INFO - Floor plan created. Area: 77.04 m², Perimeter: 36.69 m
+2025-03-24 23:54:38,121 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-24 23:54:38,122 - ezdxf - INFO - creating ACAD_GROUP dictionary
+2025-03-24 23:54:38,122 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-03-24 23:54:38,122 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-24 23:54:38,122 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-24 23:54:38,122 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-03-24 23:54:38,122 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-03-24 23:54:38,122 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-03-24 23:54:38,123 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-03-24 23:54:38,123 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-24 23:54:38,123 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-24 23:54:38,125 - ezdxf - INFO - did not write header var $INTERFEREOBJVS, value is None.
+2025-03-24 23:54:38,125 - ezdxf - INFO - did not write header var $INTERFEREVPVS, value is None.
+2025-03-24 23:54:38,127 - floor_plan_extractor - INFO - DXF exported: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-03-24 23:54:38,134 - ezdxf - INFO - DXF version upgrade to DXF R2000.
+2025-03-24 23:54:38,137 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-24 23:54:38,137 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-03-24 23:54:38,138 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-24 23:54:38,138 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-24 23:54:38,138 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-03-24 23:54:38,138 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-03-24 23:54:38,145 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-03-24 23:54:38,145 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-03-24 23:54:38,146 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-24 23:54:38,147 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-24 23:54:38,151 - root - INFO - Successfully loaded reference DXF: C:/Users/salip/Desktop/AutoRecover Of Part1.dxf
+2025-03-24 23:54:38,166 - root - INFO - Successfully loaded extracted DXF: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-03-24 23:59:08,943 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Room1/Room1.pcd
+2025-03-24 23:59:09,147 - floor_plan_extractor - INFO - Starting wall segmentation with 23629 points
+2025-03-24 23:59:09,441 - floor_plan_extractor - INFO - Wall segmentation complete. Found 4 wall segments with 14541 points
+2025-03-24 23:59:09,442 - floor_plan_extractor - INFO - Creating floor plan from 14541 wall points
+2025-03-24 23:59:09,564 - floor_plan_extractor - INFO - Floor plan created. Area: 77.07 m², Perimeter: 36.73 m
+2025-03-24 23:59:13,905 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-24 23:59:13,906 - ezdxf - INFO - creating ACAD_GROUP dictionary
+2025-03-24 23:59:13,906 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-03-24 23:59:13,906 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-24 23:59:13,906 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-24 23:59:13,906 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-03-24 23:59:13,906 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-03-24 23:59:13,907 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-03-24 23:59:13,907 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-03-24 23:59:13,907 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-24 23:59:13,907 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-24 23:59:13,909 - ezdxf - INFO - did not write header var $INTERFEREOBJVS, value is None.
+2025-03-24 23:59:13,910 - ezdxf - INFO - did not write header var $INTERFEREVPVS, value is None.
+2025-03-24 23:59:13,911 - floor_plan_extractor - INFO - DXF exported: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-03-24 23:59:13,920 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-24 23:59:13,920 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-24 23:59:13,922 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-24 23:59:13,922 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-24 23:59:13,922 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-24 23:59:13,924 - root - INFO - Successfully loaded reference DXF: C:/Users/salip/Desktop/AutoRecover Of Part1.dxf
+2025-03-24 23:59:13,941 - root - INFO - Successfully loaded extracted DXF: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-03-25 00:04:57,192 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Room1/Room1.pcd
+2025-03-25 00:04:57,409 - floor_plan_extractor - INFO - Starting wall segmentation with 23629 points
+2025-03-25 00:04:57,675 - floor_plan_extractor - INFO - Wall segmentation complete. Found 4 wall segments with 15085 points
+2025-03-25 00:04:57,675 - floor_plan_extractor - INFO - Creating floor plan from 15085 wall points
+2025-03-25 00:04:57,793 - floor_plan_extractor - INFO - Floor plan created. Area: 77.12 m², Perimeter: 36.74 m
+2025-03-25 00:05:05,544 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-25 00:05:05,544 - ezdxf - INFO - creating ACAD_GROUP dictionary
+2025-03-25 00:05:05,545 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-03-25 00:05:05,545 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-25 00:05:05,545 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-25 00:05:05,545 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-03-25 00:05:05,545 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-03-25 00:05:05,545 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-03-25 00:05:05,546 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-03-25 00:05:05,546 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-25 00:05:05,546 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-25 00:05:05,548 - ezdxf - INFO - did not write header var $INTERFEREOBJVS, value is None.
+2025-03-25 00:05:05,549 - ezdxf - INFO - did not write header var $INTERFEREVPVS, value is None.
+2025-03-25 00:05:05,550 - floor_plan_extractor - INFO - DXF exported: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-03-25 00:05:05,560 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-25 00:05:05,560 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-25 00:05:05,562 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-25 00:05:05,567 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-25 00:05:05,568 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-25 00:05:05,570 - root - INFO - Successfully loaded reference DXF: C:/Users/salip/Desktop/AutoRecover Of Part1.dxf
+2025-03-25 00:05:05,587 - root - INFO - Successfully loaded extracted DXF: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-03-25 00:12:39,111 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Room1/Room1.pcd
+2025-03-25 00:12:39,337 - floor_plan_extractor - INFO - Starting wall segmentation with 23629 points
+2025-03-25 00:12:39,643 - floor_plan_extractor - INFO - Wall segmentation complete. Found 4 wall segments with 15030 points
+2025-03-25 00:12:39,643 - floor_plan_extractor - INFO - Creating floor plan from 15030 wall points
+2025-03-25 00:12:39,768 - floor_plan_extractor - INFO - Floor plan created. Area: 77.15 m², Perimeter: 36.75 m
+2025-03-25 00:12:48,255 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-25 00:12:48,256 - ezdxf - INFO - creating ACAD_GROUP dictionary
+2025-03-25 00:12:48,256 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-03-25 00:12:48,256 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-25 00:12:48,257 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-25 00:12:48,257 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-03-25 00:12:48,257 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-03-25 00:12:48,257 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-03-25 00:12:48,257 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-03-25 00:12:48,257 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-25 00:12:48,257 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-25 00:12:48,259 - ezdxf - INFO - did not write header var $INTERFEREOBJVS, value is None.
+2025-03-25 00:12:48,259 - ezdxf - INFO - did not write header var $INTERFEREVPVS, value is None.
+2025-03-25 00:12:48,262 - floor_plan_extractor - INFO - DXF exported: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-03-25 00:12:48,273 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-25 00:12:48,273 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-25 00:12:48,273 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-25 00:12:48,274 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-25 00:12:48,281 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-25 00:12:48,282 - root - INFO - Successfully loaded reference DXF: C:/Users/salip/Desktop/AutoRecover Of Part1.dxf
+2025-03-25 00:12:48,303 - root - INFO - Successfully loaded extracted DXF: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-03-25 00:13:29,304 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Room1/Room1.pcd
+2025-03-25 00:13:29,513 - floor_plan_extractor - INFO - Starting wall segmentation with 23629 points
+2025-03-25 00:13:29,789 - floor_plan_extractor - INFO - Wall segmentation complete. Found 4 wall segments with 15215 points
+2025-03-25 00:13:29,790 - floor_plan_extractor - INFO - Creating floor plan from 15215 wall points
+2025-03-25 00:13:29,918 - floor_plan_extractor - INFO - Floor plan created. Area: 77.42 m², Perimeter: 36.80 m
+2025-03-25 00:13:35,072 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-25 00:13:35,072 - ezdxf - INFO - creating ACAD_GROUP dictionary
+2025-03-25 00:13:35,072 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-03-25 00:13:35,072 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-25 00:13:35,072 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-25 00:13:35,072 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-03-25 00:13:35,072 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-03-25 00:13:35,073 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-03-25 00:13:35,073 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-03-25 00:13:35,073 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-25 00:13:35,073 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-25 00:13:35,075 - ezdxf - INFO - did not write header var $INTERFEREOBJVS, value is None.
+2025-03-25 00:13:35,075 - ezdxf - INFO - did not write header var $INTERFEREVPVS, value is None.
+2025-03-25 00:13:35,078 - floor_plan_extractor - INFO - DXF exported: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-03-25 00:13:35,089 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-25 00:13:35,089 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-25 00:13:35,089 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-25 00:13:35,095 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-25 00:13:35,097 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-25 00:13:35,098 - root - INFO - Successfully loaded reference DXF: C:/Users/salip/Desktop/AutoRecover Of Part1.dxf
+2025-03-25 00:13:35,111 - root - INFO - Successfully loaded extracted DXF: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-03-25 00:20:17,054 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Room1/Room1.pcd
+2025-03-25 00:20:17,264 - floor_plan_extractor - INFO - Starting wall segmentation with 23629 points
+2025-03-25 00:20:17,533 - floor_plan_extractor - INFO - Wall segmentation complete. Found 4 wall segments with 15300 points
+2025-03-25 00:20:17,533 - floor_plan_extractor - INFO - Creating floor plan from 15300 wall points
+2025-03-25 00:20:17,664 - floor_plan_extractor - INFO - Floor plan created. Area: 77.48 m², Perimeter: 36.75 m
+2025-03-25 00:20:24,437 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-25 00:20:24,438 - ezdxf - INFO - creating ACAD_GROUP dictionary
+2025-03-25 00:20:24,438 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-03-25 00:20:24,438 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-25 00:20:24,438 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-25 00:20:24,439 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-03-25 00:20:24,439 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-03-25 00:20:24,439 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-03-25 00:20:24,440 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-03-25 00:20:24,440 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-25 00:20:24,440 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-25 00:20:24,441 - ezdxf - INFO - did not write header var $INTERFEREOBJVS, value is None.
+2025-03-25 00:20:24,443 - ezdxf - INFO - did not write header var $INTERFEREVPVS, value is None.
+2025-03-25 00:20:24,445 - floor_plan_extractor - INFO - DXF exported: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-03-25 00:20:24,453 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-25 00:20:24,454 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-25 00:20:24,454 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-25 00:20:24,456 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-25 00:20:24,456 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-25 00:20:24,462 - root - INFO - Successfully loaded reference DXF: C:/Users/salip/Desktop/AutoRecover Of Part1.dxf
+2025-03-25 00:20:24,476 - root - INFO - Successfully loaded extracted DXF: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-03-28 11:52:48,707 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Room1/Room1.pcd
+2025-03-28 11:52:48,940 - floor_plan_extractor - INFO - Starting wall segmentation with 23629 points
+2025-03-28 11:52:49,197 - floor_plan_extractor - INFO - Wall segmentation complete. Found 4 wall segments with 14911 points
+2025-03-28 11:52:49,198 - floor_plan_extractor - INFO - Creating floor plan from 14911 wall points
+2025-03-28 11:52:49,341 - floor_plan_extractor - INFO - Floor plan created. Area: 76.60 m², Perimeter: 36.63 m
+2025-03-28 11:52:58,561 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-28 11:52:58,563 - ezdxf - INFO - creating ACAD_GROUP dictionary
+2025-03-28 11:52:58,563 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-03-28 11:52:58,563 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-28 11:52:58,564 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-28 11:52:58,564 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-03-28 11:52:58,564 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-03-28 11:52:58,564 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-03-28 11:52:58,564 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-03-28 11:52:58,564 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-28 11:52:58,564 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-28 11:52:58,571 - ezdxf - INFO - did not write header var $INTERFEREOBJVS, value is None.
+2025-03-28 11:52:58,571 - ezdxf - INFO - did not write header var $INTERFEREVPVS, value is None.
+2025-03-28 11:52:58,573 - floor_plan_extractor - INFO - DXF exported: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-03-28 11:52:58,581 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-03-28 11:52:58,581 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-03-28 11:52:58,581 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-03-28 11:52:58,581 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-03-28 11:52:58,581 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-03-28 11:52:58,585 - root - INFO - Successfully loaded reference DXF: C:/Users/salip/Desktop/AutoRecover Of Part1.dxf
+2025-03-28 11:52:58,599 - root - INFO - Successfully loaded extracted DXF: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-04-02 11:27:11,317 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Room1/Room1.pcd
+2025-04-02 11:27:11,544 - floor_plan_extractor - INFO - Starting wall segmentation with 23629 points
+2025-04-02 11:27:11,802 - floor_plan_extractor - INFO - Wall segmentation complete. Found 4 wall segments with 15203 points
+2025-04-02 11:27:11,803 - floor_plan_extractor - INFO - Creating floor plan from 15203 wall points
+2025-04-02 11:27:11,946 - floor_plan_extractor - INFO - Floor plan created. Area: 77.29 m², Perimeter: 36.72 m
+2025-04-02 11:27:36,147 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-04-02 11:27:36,148 - ezdxf - INFO - creating ACAD_GROUP dictionary
+2025-04-02 11:27:36,148 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-04-02 11:27:36,148 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-04-02 11:27:36,148 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-04-02 11:27:36,148 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-04-02 11:27:36,148 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-04-02 11:27:36,148 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-04-02 11:27:36,148 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-04-02 11:27:36,148 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-04-02 11:27:36,148 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-04-02 11:27:36,151 - ezdxf - INFO - did not write header var $INTERFEREOBJVS, value is None.
+2025-04-02 11:27:36,152 - ezdxf - INFO - did not write header var $INTERFEREVPVS, value is None.
+2025-04-02 11:27:36,153 - floor_plan_extractor - INFO - DXF exported: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-04-02 11:27:36,164 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-04-02 11:27:36,164 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-04-02 11:27:36,165 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-04-02 11:27:36,165 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-04-02 11:27:36,165 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-04-02 11:27:36,172 - root - INFO - Successfully loaded reference DXF: C:/Users/salip/Desktop/AutoRecover Of Part1.dxf
+2025-04-02 11:27:36,187 - root - INFO - Successfully loaded extracted DXF: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-04-02 11:27:47,882 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-04-02 11:27:47,882 - ezdxf - INFO - creating ACAD_GROUP dictionary
+2025-04-02 11:27:47,882 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-04-02 11:27:47,882 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-04-02 11:27:47,882 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-04-02 11:27:47,883 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-04-02 11:27:47,883 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-04-02 11:27:47,883 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-04-02 11:27:47,883 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-04-02 11:27:47,883 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-04-02 11:27:47,883 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-04-02 11:27:47,886 - ezdxf - INFO - did not write header var $INTERFEREOBJVS, value is None.
+2025-04-02 11:27:47,887 - ezdxf - INFO - did not write header var $INTERFEREVPVS, value is None.
+2025-04-02 11:27:47,888 - floor_plan_extractor - INFO - DXF exported: C:/Users/salip/Desktop\floorplan.dxf
+2025-04-03 10:36:26,544 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Final Year Project/Scan Room/corner3 (Frame 33).pcd
+2025-04-03 10:36:26,606 - floor_plan_extractor - INFO - Starting wall segmentation with 16125 points
+2025-04-03 10:36:26,728 - floor_plan_extractor - INFO - Wall segmentation complete. Found 3 wall segments with 4802 points
+2025-04-03 10:36:26,728 - floor_plan_extractor - INFO - Creating floor plan from 4802 wall points
+2025-04-03 10:36:26,771 - floor_plan_extractor - INFO - Floor plan created. Area: 176.96 m², Perimeter: 54.77 m
+2025-04-03 10:36:44,219 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Final Year Project/Scans/Record3/aggregated_scan_record3.pcd
+2025-04-03 10:36:47,438 - floor_plan_extractor - INFO - Starting wall segmentation with 25503 points
+2025-04-03 10:36:47,768 - floor_plan_extractor - INFO - Wall segmentation complete. Found 4 wall segments with 16872 points
+2025-04-03 10:36:47,768 - floor_plan_extractor - INFO - Creating floor plan from 16872 wall points
+2025-04-03 10:36:47,916 - floor_plan_extractor - INFO - Floor plan created. Area: 76.99 m², Perimeter: 36.69 m
+2025-04-03 10:36:54,935 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-04-03 10:36:54,935 - ezdxf - INFO - creating ACAD_GROUP dictionary
+2025-04-03 10:36:54,935 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-04-03 10:36:54,935 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-04-03 10:36:54,935 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-04-03 10:36:54,936 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-04-03 10:36:54,936 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-04-03 10:36:54,936 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-04-03 10:36:54,936 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-04-03 10:36:54,936 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-04-03 10:36:54,936 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-04-03 10:36:54,939 - ezdxf - INFO - did not write header var $INTERFEREOBJVS, value is None.
+2025-04-03 10:36:54,940 - ezdxf - INFO - did not write header var $INTERFEREVPVS, value is None.
+2025-04-03 10:36:54,941 - floor_plan_extractor - INFO - DXF exported: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-04-03 10:36:54,953 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-04-03 10:36:54,953 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-04-03 10:36:54,953 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-04-03 10:36:54,954 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-04-03 10:36:54,954 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-04-03 10:36:54,961 - root - INFO - Successfully loaded reference DXF: C:/Users/salip/Desktop/AutoRecover Of Part1.dxf
+2025-04-03 10:36:54,974 - root - INFO - Successfully loaded extracted DXF: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-04-03 10:42:45,597 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Room1/Room1.pcd
+2025-04-03 10:42:45,828 - floor_plan_extractor - INFO - Starting wall segmentation with 23629 points
+2025-04-03 10:42:46,114 - floor_plan_extractor - INFO - Wall segmentation complete. Found 4 wall segments with 14566 points
+2025-04-03 10:42:46,114 - floor_plan_extractor - INFO - Creating floor plan from 14566 wall points
+2025-04-03 10:42:46,255 - floor_plan_extractor - INFO - Floor plan created. Area: 77.15 m², Perimeter: 36.75 m
+2025-04-03 10:42:55,651 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-04-03 10:42:55,652 - ezdxf - INFO - creating ACAD_GROUP dictionary
+2025-04-03 10:42:55,652 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-04-03 10:42:55,652 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-04-03 10:42:55,652 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-04-03 10:42:55,652 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-04-03 10:42:55,652 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-04-03 10:42:55,653 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-04-03 10:42:55,653 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-04-03 10:42:55,653 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-04-03 10:42:55,653 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-04-03 10:42:55,656 - ezdxf - INFO - did not write header var $INTERFEREOBJVS, value is None.
+2025-04-03 10:42:55,656 - ezdxf - INFO - did not write header var $INTERFEREVPVS, value is None.
+2025-04-03 10:42:55,658 - floor_plan_extractor - INFO - DXF exported: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-04-03 10:42:55,666 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-04-03 10:42:55,666 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-04-03 10:42:55,667 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-04-03 10:42:55,667 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-04-03 10:42:55,667 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-04-03 10:42:55,669 - root - INFO - Successfully loaded reference DXF: C:/Users/salip/Desktop/AutoRecover Of Part1.dxf
+2025-04-03 10:42:55,687 - root - INFO - Successfully loaded extracted DXF: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-04-03 10:43:16,227 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Final Year Project/Scans/Record3/aggregated_scan_record3.pcd
+2025-04-03 10:43:19,443 - floor_plan_extractor - INFO - Starting wall segmentation with 25503 points
+2025-04-03 10:43:19,765 - floor_plan_extractor - INFO - Wall segmentation complete. Found 4 wall segments with 16733 points
+2025-04-03 10:43:19,765 - floor_plan_extractor - INFO - Creating floor plan from 16733 wall points
+2025-04-03 10:43:19,919 - floor_plan_extractor - INFO - Floor plan created. Area: 76.97 m², Perimeter: 36.66 m
+2025-04-03 10:43:41,940 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-04-03 10:43:41,940 - ezdxf - INFO - creating ACAD_GROUP dictionary
+2025-04-03 10:43:41,940 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-04-03 10:43:41,940 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-04-03 10:43:41,940 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-04-03 10:43:41,941 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-04-03 10:43:41,941 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-04-03 10:43:41,941 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-04-03 10:43:41,941 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-04-03 10:43:41,941 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-04-03 10:43:41,941 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-04-03 10:43:41,943 - ezdxf - INFO - did not write header var $INTERFEREOBJVS, value is None.
+2025-04-03 10:43:41,944 - ezdxf - INFO - did not write header var $INTERFEREVPVS, value is None.
+2025-04-03 10:43:41,946 - floor_plan_extractor - INFO - DXF exported: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-04-03 10:43:41,955 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-04-03 10:43:41,955 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-04-03 10:43:41,955 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-04-03 10:43:41,957 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-04-03 10:43:41,957 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-04-03 10:43:41,965 - root - INFO - Successfully loaded reference DXF: C:/Users/salip/Desktop/AutoRecover Of Part1.dxf
+2025-04-03 10:43:41,978 - root - INFO - Successfully loaded extracted DXF: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-04-03 10:48:09,225 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Room1/Room1.pcd
+2025-04-03 10:48:09,446 - floor_plan_extractor - INFO - Starting wall segmentation with 23629 points
+2025-04-03 10:48:09,724 - floor_plan_extractor - INFO - Wall segmentation complete. Found 4 wall segments with 14937 points
+2025-04-03 10:48:09,725 - floor_plan_extractor - INFO - Creating floor plan from 14937 wall points
+2025-04-03 10:48:09,867 - floor_plan_extractor - INFO - Floor plan created. Area: 77.47 m², Perimeter: 36.76 m
+2025-04-03 10:48:16,433 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-04-03 10:48:16,433 - ezdxf - INFO - creating ACAD_GROUP dictionary
+2025-04-03 10:48:16,433 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-04-03 10:48:16,433 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-04-03 10:48:16,433 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-04-03 10:48:16,433 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-04-03 10:48:16,434 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-04-03 10:48:16,434 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-04-03 10:48:16,434 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-04-03 10:48:16,434 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-04-03 10:48:16,434 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-04-03 10:48:16,435 - ezdxf - INFO - did not write header var $INTERFEREOBJVS, value is None.
+2025-04-03 10:48:16,437 - ezdxf - INFO - did not write header var $INTERFEREVPVS, value is None.
+2025-04-03 10:48:16,439 - floor_plan_extractor - INFO - DXF exported: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-04-03 10:48:16,446 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-04-03 10:48:16,446 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-04-03 10:48:16,447 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-04-03 10:48:16,447 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-04-03 10:48:16,447 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-04-03 10:48:16,450 - root - INFO - Successfully loaded reference DXF: C:/Users/salip/Desktop/AutoRecover Of Part1.dxf
+2025-04-03 10:48:16,466 - root - INFO - Successfully loaded extracted DXF: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-04-03 10:50:50,333 - floor_plan_extractor - INFO - Loading point cloud: C:/Users/salip/Desktop/Room1/Room1.pcd
+2025-04-03 10:50:50,712 - floor_plan_extractor - INFO - Starting wall segmentation with 23629 points
+2025-04-03 10:50:51,310 - floor_plan_extractor - INFO - Wall segmentation complete. Found 4 wall segments with 15191 points
+2025-04-03 10:50:51,311 - floor_plan_extractor - INFO - Creating floor plan from 15191 wall points
+2025-04-03 10:50:51,502 - floor_plan_extractor - INFO - Floor plan created. Area: 77.22 m², Perimeter: 36.71 m
+2025-04-03 10:52:39,044 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-04-03 10:52:39,044 - ezdxf - INFO - creating ACAD_GROUP dictionary
+2025-04-03 10:52:39,044 - ezdxf - INFO - creating ACAD_LAYOUT dictionary
+2025-04-03 10:52:39,046 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-04-03 10:52:39,046 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-04-03 10:52:39,047 - ezdxf - INFO - creating ACAD_MLINESTYLE dictionary
+2025-04-03 10:52:39,047 - ezdxf - INFO - creating ACAD_PLOTSETTINGS dictionary
+2025-04-03 10:52:39,047 - ezdxf - INFO - creating ACAD_PLOTSTYLENAME dictionary
+2025-04-03 10:52:39,048 - ezdxf - INFO - creating ACAD_SCALELIST dictionary
+2025-04-03 10:52:39,048 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-04-03 10:52:39,049 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-04-03 10:52:39,054 - ezdxf - INFO - did not write header var $INTERFEREOBJVS, value is None.
+2025-04-03 10:52:39,054 - ezdxf - INFO - did not write header var $INTERFEREVPVS, value is None.
+2025-04-03 10:52:39,057 - floor_plan_extractor - INFO - DXF exported: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
+2025-04-03 10:52:39,092 - ezdxf - INFO - creating ACAD_COLOR dictionary
+2025-04-03 10:52:39,101 - ezdxf - INFO - creating ACAD_MATERIAL dictionary
+2025-04-03 10:52:39,104 - ezdxf - INFO - creating ACAD_MLEADERSTYLE dictionary
+2025-04-03 10:52:39,106 - ezdxf - INFO - creating ACAD_TABLESTYLE dictionary
+2025-04-03 10:52:39,112 - ezdxf - INFO - creating ACAD_VISUALSTYLE dictionary
+2025-04-03 10:52:39,113 - root - INFO - Successfully loaded reference DXF: C:/Users/salip/Desktop/AutoRecover Of Part1.dxf
+2025-04-03 10:52:39,150 - root - INFO - Successfully loaded extracted DXF: C:/Users/salip/AppData/Local/Temp\temp_floorplan.dxf
