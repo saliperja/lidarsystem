@@ -89,5 +89,5 @@ For common issues and solutions, please refer to the [HELP.md](HELP.md) file.
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
+
 
